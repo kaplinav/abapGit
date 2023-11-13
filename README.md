@@ -14,9 +14,6 @@
 </picture>
 --> 
 
-# <a href="https://supportukrainenow.org/"><img src="img/abapGit_in_Ukraine_Colors.svg" height="40" alt="abapGit logo"></a>
-
-<a href="https://supportukrainenow.org/"><img src="img/Ukraine-heart-shape-flag.svg" height="25" alt="Support Ukraine"> Support Ukraine</a>
 
 Git client for ABAP
 
